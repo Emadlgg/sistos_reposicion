@@ -2,8 +2,6 @@
 
 Demostración en C de un buffer overflow, sus consecuencias y las mitigaciones que aplican los sistemas operativos modernos: **Stack Canaries**, **ASLR** y **DEP/NX Bit**.
 
-Desarrollado como material de apoyo para la presentación del curso **Sistemas Operativos (CC3064)** — Universidad del Valle de Guatemala.
-
 ---
 
 ## Archivos
@@ -158,6 +156,8 @@ Ninguna técnica por sí sola es suficiente:
 
 La seguridad real combina todas las capas simultáneamente, más código bien escrito desde el principio.
 
+---
+[Video Demostrativo](https://youtu.be/rY3Mxt0JsG4))
 ---
 
 ## Referencias
